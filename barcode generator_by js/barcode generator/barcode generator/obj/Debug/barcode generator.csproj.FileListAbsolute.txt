@@ -1,0 +1,34 @@
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\barcode generator.exe.config
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\barcode generator.exe
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\barcode generator.pdb
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode generator.csprojAssemblyReference.cache
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode_generator.Form1.resources
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode_generator.Properties.Resources.resources
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode generator.csproj.GenerateResource.cache
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode generator.csproj.CoreCompileInputs.cache
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode generator.csproj.CopyComplete
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode generator.exe
+C:\Users\2klab\source\repos\barcode generator\barcode generator\obj\Debug\barcode generator.pdb
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\zxing.dll
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\zxing.presentation.dll
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\zxing.pdb
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\zxing.xml
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\zxing.presentation.pdb
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\zxing.presentation.xml
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\OnBarcode.Barcode.WinForms.dll
+C:\Users\2klab\source\repos\barcode generator\barcode generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode generator.csprojAssemblyReference.cache
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode_generator.Form1.resources
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode_generator.Properties.Resources.resources
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode generator.csproj.GenerateResource.cache
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode generator.csproj.CoreCompileInputs.cache
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode generator.exe
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode generator.pdb
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\bin\Debug\barcode generator.exe.config
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\bin\Debug\barcode generator.exe
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\bin\Debug\barcode generator.pdb
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\bin\Debug\zxing.pdb
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\bin\Debug\zxing.xml
+C:\Users\하마\Desktop\barcode generator (1)\barcode generator\barcode generator\obj\Debug\barcode generator.csproj.CopyComplete

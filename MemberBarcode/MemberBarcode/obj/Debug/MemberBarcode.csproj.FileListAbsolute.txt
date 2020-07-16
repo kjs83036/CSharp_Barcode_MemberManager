@@ -1,0 +1,14 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\bin\Debug\MemberBarcode.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\bin\Debug\MemberBarcode.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\bin\Debug\MemberBarcode.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.csprojAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.Form1.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.Form2.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.Properties.Resources.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.csproj.GenerateResource.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.csproj.CoreCompileInputs.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\bin\Debug\KjsLibrary.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\bin\Debug\zxing.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\MemberBarcode\MemberBarcode\obj\Debug\MemberBarcode.csproj.CopyComplete

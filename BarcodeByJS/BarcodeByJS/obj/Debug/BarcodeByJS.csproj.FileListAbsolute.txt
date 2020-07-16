@@ -1,0 +1,12 @@
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\bin\Debug\BarcodeByJS.exe.config
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\bin\Debug\BarcodeByJS.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\bin\Debug\BarcodeByJS.pdb
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\bin\Debug\zxing.dll
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.csprojAssemblyReference.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.Form1.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.Properties.Resources.resources
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.csproj.GenerateResource.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.csproj.CoreCompileInputs.cache
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.csproj.CopyComplete
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.exe
+C:\Users\2klab\OneDrive\2kd\Projects_c#\BarcodeByJS\BarcodeByJS\obj\Debug\BarcodeByJS.pdb
